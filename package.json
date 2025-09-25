@@ -1,0 +1,23 @@
+{
+  "name": "express-authentication-example",
+  "version": "1.0.0",
+  "description": "Express.js authentication example for students.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "authentication",
+    "nodejs"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
